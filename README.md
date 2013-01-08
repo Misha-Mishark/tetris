@@ -41,7 +41,8 @@ Controls
 - Left and right arrow keys will move the current piece to the left or to the right
 - The up arrow key rotates the current piece
 - The down arrow key slowly moves the piece down
-- And pressing space will drop the piece
+- Pressing space will drop the piece
+- And pressing S will toggle the shadow piece
 
 Credits
 -------
