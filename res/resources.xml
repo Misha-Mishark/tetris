@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- IMAGES -->
+    <resource id="BLOCK" type="image">block.png</resource>
+    <resource id="TRANSPARENT_BLOCK" type="image">transparent-block.png</resource>
+    <resource id="MAIN_MENU" type="image">main-menu.jpg</resource>
+    <resource id="HUD" type="image">game2.jpg</resource>
+    <resource id="START_GAME" type="image">start-game.png</resource>
+    <resource id="EXIT" type="image">exit.png</resource>
+
+    <!-- SOUNDS -->
+    <!-- BUTTONS -->
+    <resource id="BUTTON_UP" type="sound">buttons/SFX_ButtonUp.ogg</resource>
+
+    <!-- COMBOS -->
+    <resource id="SINGLE" type="sound">combos/SFX_SpecialLineClearSingle.ogg</resource>
+    <resource id="DOUBLE" type="sound">combos/SFX_SpecialLineClearDouble.ogg</resource>
+    <resource id="TRIPLE" type="sound">combos/SFX_SpecialLineClearTriple.ogg</resource>
+    <resource id="TETRIS" type="sound">combos/SFX_SpecialTetris.ogg</resource>
+
+    <!-- GAME -->
+    <resource id="LEVEL_UP" type="sound">game/SFX_LevelUp.ogg</resource>
+    <resource id="GAME_SPLASH" type="sound">game/SFX_Splash.ogg</resource>
+    <resource id="GAME_START" type="sound">game/SFX_GameStart.ogg</resource>
+    <resource id="GAME_OVER" type="sound">game/SFX_GameOver.ogg</resource>
+
+    <!-- PIECE -->
+    <resource id="PIECE_FALL" type="sound">piece/SFX_PieceFall.ogg</resource>
+    <resource id="PIECE_MOVE" type="sound">piece/SFX_PieceMoveLR.ogg</resource>
+    <resource id="PIECE_ROTATE" type="sound">piece/SFX_PieceRotateLR.ogg</resource>
+    <resource id="PIECE_TOUCH" type="sound">piece/SFX_PieceTouchLR.ogg</resource>
+
+    <!-- VOICE -->
+    <resource id="AMAZING" type="sound">voice/VO_AMAZING.ogg</resource>
+    <resource id="BRILLIANT" type="sound">voice/VO_BRILLIANT.ogg</resource>
+    <resource id="EXCELLENT" type="sound">voice/VO_EXLNT.ogg</resource>
+    <resource id="FANTASTIC" type="sound">voice/VO_FANTSTC.ogg</resource>
+    <resource id="VERY_GOOD" type="sound">voice/VO_VRYGOOD.ogg</resource>
+    <resource id="WONDERFUL" type="sound">voice/VO_WONDRFL.ogg</resource>
+
+</resources>
